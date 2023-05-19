@@ -1,0 +1,17 @@
+.tex{
+    background-color: rgb(255, 127, 234);
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+button{
+    color: rgb(246, 246, 252);
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(170, 19, 190);
+}
+.tex h1{
+    color: rgb(214, 1, 125);
+}
